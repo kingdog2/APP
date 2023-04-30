@@ -1,0 +1,37 @@
+{
+  "users": [
+    {
+      "id": "A123456",
+      "name": "CSIST",
+      "email": "csist@gmail.com",
+      "gender": "nale",
+      "contact": {
+        "mobile": "+01 1234567890",
+        "home":"53 333333",
+        "office": "53 333333"
+      }
+    },
+    {
+      "id": "A123456",
+      "name": "CSIST",
+      "email": "csist@gmail.com",
+      "gender": "nale",
+      "contact": {
+        "mobile": "+01 1234567890",
+        "home":"53 333333",
+        "office": "53 333333"
+      }
+    },
+    {
+      "id": "A123456",
+      "name": "CSIST",
+      "email": "csist@gmail.com",
+      "gender": "nale",
+      "contact": {
+        "mobile": "+01 1234567890",
+        "home":"53 333333",
+        "office": "53 333333"
+      }
+    }
+  ]
+}
